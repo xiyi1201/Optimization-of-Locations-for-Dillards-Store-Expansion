@@ -5,7 +5,8 @@ This is a Big Data project which optimized store locations using machine learnin
 ## Table of Contents
 - [Project Description](#project-description)
 - [Dataset Overview](#dataset-overview)
-- [Implemented Models and Results](#implemented-models-and-results)
+- [Data Science Pipeline](#data-science-pipeline)
+- [Deliverables](#deliverables)
 - [Contributors](#contributors)
 
 ## Project Description
